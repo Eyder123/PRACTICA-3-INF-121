@@ -1,0 +1,34 @@
+[
+    {
+        "nombreFarmacia": "Farmacia Central",
+        "sucursal": 1,
+        "direccion": "Calle 123",
+        "medicamentos": [
+            {
+                "nombre": "Golpex",
+                "codMedicamento": 101,
+                "tipo": "tos",
+                "precio": 12.5
+            },
+            {
+                "nombre": "Paracetamol",
+                "codMedicamento": 102,
+                "tipo": "resfrio",
+                "precio": 8.0
+            }
+        ]
+    },
+    {
+        "nombreFarmacia": "Farmacia Salud",
+        "sucursal": 2,
+        "direccion": "Av. Siempre Viva",
+        "medicamentos": [
+            {
+                "nombre": "Broncure",
+                "codMedicamento": 103,
+                "tipo": "tos",
+                "precio": 10.0
+            }
+        ]
+    }
+]
